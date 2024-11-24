@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CorePixelEngine.Core\CorePixelEngine.Core.csproj" />
+    <ProjectReference Include="..\CorePixelEngine.OpenGL.Net\CorePixelEngine.OpenGL.Net.csproj" />
   </ItemGroup>
 
   <ItemGroup>
